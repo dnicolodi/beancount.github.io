@@ -9,15 +9,11 @@ reports from them, and provides a web interface.
 
 ## Documentation
 
-Documentation can be read at:
-
-    https://beancount.github.io/docs/
+Documentation can be found [here](https://beancount.github.io/docs/).
 
 Documentation authoring happens on Google Docs, where you can contribute by
 requesting access or commenting on individual documents. An index of all source
-documents is available here:
-
-    http://furius.ca/beancount/doc/index
+documents is available [here](http://furius.ca/beancount/doc/index).
 
 There's a [mailing-list dedicated to Beancount](
 https://groups.google.com/forum/#!forum/beancount), please post questions
@@ -29,12 +25,10 @@ interested in that group as well.
 
 ## Download & Installation
 
-You can obtain the source code from the official Git repository on Github:
-
-    https://github.com/beancount/beancount/
-
-See the [Installing Beancount](http://furius.ca/beancount/doc/install) document
-for more details.
+You can obtain the source code from the official [Git
+repository](https://github.com/beancount/beancount/) on Github. See
+the [Installing Beancount](http://furius.ca/beancount/doc/install)
+document for more details.
 
 
 ## Versions
